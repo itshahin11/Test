@@ -1,3 +1,4 @@
 This is Text 1
 this is new line 2
 some changes for test
+Log Alignmetn is Centered.
